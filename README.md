@@ -102,6 +102,13 @@ Open any assignment notebook to reproduce the results.
 
 ---
 
+## Dataset Notes
+
+Some large language corpora (Europarl v7) are excluded from this repository due to GitHub file size limits.
+The assignments were originally executed using these datasets locally.
+
+---
+
 # 👨‍💻 Authors
 
 **Adil Ahmed**  
